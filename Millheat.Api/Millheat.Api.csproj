@@ -6,6 +6,7 @@
     <Description>A C# wrapper over the Mill Open API. Lets you retrieve homes, rooms and devices connected to your Mill account.</Description>
     <Version>1.0.1</Version>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageProjectUrl>https://github.com/andreas-nesheim/Millheat.Api</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
@@ -13,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="docs\README.md" Pack="true" PackagePath=""/>
+    <None Include="docs\README.md" Pack="true" PackagePath="" />
   </ItemGroup>
 
 </Project>
