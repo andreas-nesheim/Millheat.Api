@@ -1,6 +1,6 @@
 # About
 
-Millheat.Api is a C# wrapper over the Mill Open API. It lets you retrieve homes, rooms and devices connected to your Mill account.
+Millheat.Api is a C# wrapper over the Mill Open API, which lets you control [Mill](https://millnorway.com/) smart heaters. It lets you retrieve homes, rooms and devices connected to your Mill account.
 
 # How to use
 Before you use this, make sure you've applied for the [Mill Open API](https://api.millheat.com/) and have received an access key and a secret token.
