@@ -41,3 +41,6 @@ Set the temperature (in Celsius) for the specific device:
 ```csharp
 await millheatClient.SetTemperature(devices.First(), 22);
 ```
+
+# Blogpost
+Check my blogpost on how I used the API to connect to Google Assistant via Azure Functions: https://www.andreasnesheim.no/controlling-your-mill-smart-heater-using-google-assistant-and-azure-functions/
